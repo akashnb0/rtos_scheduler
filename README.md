@@ -1,6 +1,6 @@
-# RTOS Task Scheduler Web Application
+# Dynamic Task Scheduling and Optimization System for Real-Time Operating Systems (RTOS) with Prioritization and Execution Monitoring
 
-A web-based RTOS task scheduler that allows users to add, edit, delete tasks, and simulate task scheduling using a First-Come First-Served approach, with real-time status updates and results visualization.
+A web-based RTOS task scheduler that allows users to add, edit, delete tasks, and simulate task scheduling using a FCFS approach, with real-time status updates and results visualization.
 
 ## Introduction
 This project implements a web-based RTOS task scheduler, providing a simple and intuitive interface for managing tasks and simulating their execution. Users can add tasks, assign priorities, set deadlines, and view task statuses once they are scheduled.
