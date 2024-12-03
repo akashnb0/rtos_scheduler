@@ -32,17 +32,16 @@ It aims to give insight into how real-time operating systems schedule tasks with
 ## Project Format Tree
 ```
 .
-├── app.py
-│ └── requirements.txt
-├── frontend
-│ ├── build
-│ └── public
-│ └── src
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── Procfile
-└── README.md
+├── /frontend          
+│   ├── /build           
+│   └── /src             
+│       ├── App.js      
+│       ├── App.css     
+│       └── index.js      
+├── app.py           
+├── requirements.txt  
+└── README.md            
+
 ```
 
 
