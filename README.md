@@ -20,7 +20,7 @@ It aims to give insight into how real-time operating systems schedule tasks with
 - Can be used in educational settings to teach task scheduling concepts.
 - Improves understanding of how task priorities and deadlines impact scheduling outcomes.
 
-## Tech Stack
+## Tech Stack Used
 - **Backend**: Flask (Python)
 - **Frontend**: ReactJS
 - **Styling**: CSS
