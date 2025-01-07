@@ -5,7 +5,7 @@ A web-based RTOS task scheduler that allows users to add, edit, delete tasks, an
 ## Introduction
 This project implements a web-based RTOS task scheduler, providing a simple and intuitive interface for managing tasks and simulating their execution. Users can add tasks, assign priorities, set deadlines, and view task statuses once they are scheduled.
 
-It aims to give insight into how real-time operating systems schedule tasks with specific priorities and deadlines, allowing users to better understand scheduling strategies and task management in embedded systems.
+It aims to give insight into how Real-Time Operating Systems schedule tasks with specific priorities and deadlines, allowing users to better understand scheduling strategies and task management in embedded systems.
 
 ## Novelty
 - Provides a web-based solution for simulating RTOS task scheduling.
