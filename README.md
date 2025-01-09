@@ -12,7 +12,7 @@ It aims to give insight into how Real-Time Operating Systems schedule tasks with
 - Users can dynamically add, edit, and delete tasks with real-time feedback.
 - Uses a priority-based First-Come First-Served (FCFS) scheduler to simulate task execution.
 - Displays task statuses such as "Completed" or "Missed Deadline" for real-time tracking.
-- Simple and intuitive UI built with ReactJS, making it accessible from any browser.
+- Simple and intuitive User Interface built with ReactJS, making it accessible from any browser.
 
 ## Applications and Impact
 - Useful in understanding task scheduling algorithms for embedded systems and real-time applications.
